@@ -29,15 +29,10 @@
 
 ### Education:
 - University: 
-	- Qualification: Engineer
-	- Major:
-	- Year of Enrollment:
-	- Year of Graduation:
-- University:
-	- Qualification: Engineer
-	- Major:
-	- Year of Enrollment:
-	- Year of Graduation:	
+	- Qualification: lawyer
+	- Major: jurisprudence
+	- Year of Enrollment:1999
+	- Year of Graduation:2005
 ### Languages
 - Russian (native)
 - English (B2)
